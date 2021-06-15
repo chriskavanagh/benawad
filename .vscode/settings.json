@@ -2,6 +2,6 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "css.validate": false,
-  "editor.fontSize": 15,
+  "editor.fontSize": 15.5,
   "editor.minimap.enabled": false
 }
